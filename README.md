@@ -69,11 +69,11 @@ Cables Dupont
 
 Montaje del sistema
 
-![Montaje del sistema] (docs/hardware_setup.jpg)
+![Montaje del sistema](docs/hardware_setup.jpg)
 
 Esquema de conexiones
 
-![Diagrama del circuito] (docs/schematic_diagram.png)
+![Diagrama del circuito](docs/schematic_diagram.png)
 
 El diagrama presenta una representación conceptual del sistema y de las conexiones principales entre los componentes.
 
